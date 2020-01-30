@@ -1,6 +1,6 @@
 lab02-sssaaaaaarrra
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02-sssaaaaaarrra/testapidocs/hello/package-summary.html
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-sssaaaaaarrra/apidocs/hello/package-summary.html
 Javadoc (test code): https://ucsb-cs56-w20.github.io/lab02-sssaaaaaarrra/testapidocs/hello/package-summary.html
 Repo: https://github.com/ucsb-cs56-w20/lab02-sssaaaaaarrra/
 
